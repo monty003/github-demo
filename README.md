@@ -5,7 +5,7 @@
 ## Purpose
 
 
-##deployment
+## Deployment
 
 ## How to contribute
 
