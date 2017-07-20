@@ -2,6 +2,9 @@
 test git quick start demo
 
 
-follow each steps.
+follow each steps.  
 
 do practice everyday
+
+
+write down each command.
